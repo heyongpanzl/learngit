@@ -4,3 +4,4 @@ git is free software 0531
 git is a nb version control system.
 git is a free software.
 git has a mutable index called stage.
+Creating a new branch is quick.0601
