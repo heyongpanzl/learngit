@@ -5,4 +5,5 @@ git is a nb version control system.
 git is a free software.
 git has a mutable index called stage.
 Creating a new branch is quick.0601
-现在是在master分支上修改text.txt文件
+现在是6.1凌晨3点25分
+
